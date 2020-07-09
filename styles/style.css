@@ -1,0 +1,40 @@
+html {
+  box-sizing: border-box;
+  background-color: #efefef;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+body {
+  color: #A9a9a9;
+  margin: 0 auto;
+  width: 600px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  padding: 20px;
+  border-bottom: 3px solid #ff3b3f;
+}
+
+h3 {
+  text-align: center;
+}
+
+h2 {
+  background-color: #caebf2;
+  text-align: center;
+}
+
+p {
+  letter-spacing: 1px;
+}
+
+img {
+  height: 200px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
